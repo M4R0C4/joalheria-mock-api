@@ -1,72 +1,75 @@
-[
-  {
-    "id": 1,
-    "name": "Anel de Ouro 18k",
-    "type": "Anel",
-    "price": 1299.90,
-    "image": "./imagem-produtos/Anel-de-Ouro-15k.png"
-  },
-  {
-    "id": 2,
-    "name": "Colar de Pérolas",
-    "type": "Colar",
-    "price": 899.00,
-    "image": "./imagem-produtos/Colar-de-Pérolas_simples.png"
-  },
-  {
-    "id": 3,
-    "name": "Brinco de Diamante",
-    "type": "Brinco",
-    "price": 4599.99,
-    "image": "./imagem-produtos/Brinco-de-Diamante.png"
-  },
-  {
-    "id": 4,
-    "name": "Pulseira de Ouro Branco",
-    "type": "Pulseira",
-    "price": 1999.00,
-    "image": "./imagem-produtos/Pulseira-de-Ouro-Branco.png"
-  },
-  {
-    "id": 5,
-    "name": "Pingente Coração",
-    "type": "Pingente",
-    "price": 349.90,
-    "image": "./imagem-produtos/Pingente-Coração.png"
-  },
-  {
-    "id": 6,
-    "name": "Relógio Feminino Luxo",
-    "type": "Relógio",
-    "price": 2499.90,
-    "image": "https://example.com/images/relogio-feminino.jpg"
-  },
-  {
-    "id": 7,
-    "name": "Aliança Casal Ouro 18k",
-    "type": "Aliança",
-    "price": 3599.00,
-    "image": "https://example.com/images/alianca-ouro-18k.jpg"
-  },
-  {
-    "id": 8,
-    "name": "Brinco Argola Prata",
-    "type": "Brinco",
-    "price": 299.00,
-    "image": "https://example.com/images/brinco-argola-prata.jpg"
-  },
-  {
-    "id": 9,
-    "name": "Pulseira Couro e Aço",
-    "type": "Pulseira",
-    "price": 189.90,
-    "image": "https://example.com/images/pulseira-couro-aco.jpg"
-  },
-  {
-    "id": 10,
-    "name": "Colar com Pingente de Safira",
-    "type": "Colar",
-    "price": 2799.00,
-    "image": "https://example.com/images/colar-safira.jpg"
-  }
-]
+{
+  "produtos":
+  [
+    {
+      "id": 1,
+      "name": "Anel de Ouro 18k",
+      "type": "Anel",
+      "price": 1299.90,
+      "image": "./imagem-produtos/Anel-de-Ouro-15k.png"
+    },
+    {
+      "id": 2,
+      "name": "Colar de Pérolas",
+      "type": "Colar",
+      "price": 899.00,
+      "image": "./imagem-produtos/Colar-de-Pérolas_simples.png"
+    },
+    {
+      "id": 3,
+      "name": "Brinco de Diamante",
+      "type": "Brinco",
+      "price": 4599.99,
+      "image": "./imagem-produtos/Brinco-de-Diamante.png"
+    },
+    {
+      "id": 4,
+      "name": "Pulseira de Ouro Branco",
+      "type": "Pulseira",
+      "price": 1999.00,
+      "image": "./imagem-produtos/Pulseira-de-Ouro-Branco.png"
+    },
+    {
+      "id": 5,
+      "name": "Pingente Coração",
+      "type": "Pingente",
+      "price": 349.90,
+      "image": "./imagem-produtos/Pingente-Coração.png"
+    },
+    {
+      "id": 6,
+      "name": "Relógio Feminino Luxo",
+      "type": "Relógio",
+      "price": 2499.90,
+      "image": "https://example.com/images/relogio-feminino.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Aliança Casal Ouro 18k",
+      "type": "Aliança",
+      "price": 3599.00,
+      "image": "https://example.com/images/alianca-ouro-18k.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Brinco Argola Prata",
+      "type": "Brinco",
+      "price": 299.00,
+      "image": "https://example.com/images/brinco-argola-prata.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Pulseira Couro e Aço",
+      "type": "Pulseira",
+      "price": 189.90,
+      "image": "https://example.com/images/pulseira-couro-aco.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Colar com Pingente de Safira",
+      "type": "Colar",
+      "price": 2799.00,
+      "image": "https://example.com/images/colar-safira.jpg"
+    }
+  ]
+}
