@@ -6,70 +6,70 @@
       "name": "Anel de Ouro 18k",
       "type": "Anel",
       "price": 1299.90,
-      "image": "https://images.tcdn.com.br/img/img_prod/770280/90_anel_meia_alianca_em_ouro_18k_com_pedras_diamante_gold_silver_1909_1_50ff88dfbf41cd7ed7a789a172a58a76.jpg"
+      "image": "https://images.pexels.com/photos/17298618/pexels-photo-17298618.jpeg"
     },
     {
       "id": 2,
       "name": "Colar de Pérolas",
       "type": "Colar",
       "price": 899.00,
-      "image": "https://images.pexels.com/photos/17298618/pexels-photo-17298618.jpeg"
+      "image": "https://images.pexels.com/photos/6718757/pexels-photo-6718757.jpeg"
     },
     {
       "id": 3,
       "name": "Brinco de Diamante",
       "type": "Brinco",
       "price": 4599.99,
-      "image": "./imagem-produtos/Brinco-de-Diamante.png"
+      "image": "https://images.pexels.com/photos/10976654/pexels-photo-10976654.jpeg"
     },
     {
       "id": 4,
       "name": "Pulseira de Ouro Branco",
       "type": "Pulseira",
       "price": 1999.00,
-      "image": "./imagem-produtos/Pulseira-de-Ouro-Branco.png"
+      "image": "https://images.pexels.com/photos/16274914/pexels-photo-16274914.jpeg"
     },
     {
       "id": 5,
       "name": "Pingente Coração",
       "type": "Pingente",
       "price": 349.90,
-      "image": "./imagem-produtos/Pingente-Coração.png"
+      "image": "https://images.pexels.com/photos/10983782/pexels-photo-10983782.jpeg"
     },
     {
       "id": 6,
       "name": "Relógio Feminino Luxo",
       "type": "Relógio",
       "price": 2499.90,
-      "image": "https://example.com/images/relogio-feminino.jpg"
+      "image": "https://images.pexels.com/photos/10557834/pexels-photo-10557834.jpeg"
     },
     {
       "id": 7,
       "name": "Aliança Casal Ouro 18k",
       "type": "Aliança",
       "price": 3599.00,
-      "image": "https://example.com/images/alianca-ouro-18k.jpg"
+      "image": "https://images.pexels.com/photos/6927690/pexels-photo-6927690.jpeg"
     },
     {
       "id": 8,
       "name": "Brinco Argola Prata",
       "type": "Brinco",
       "price": 299.00,
-      "image": "https://example.com/images/brinco-argola-prata.jpg"
+      "image": "https://images.pexels.com/photos/11456370/pexels-photo-11456370.jpeg"
     },
     {
       "id": 9,
       "name": "Pulseira Couro e Aço",
       "type": "Pulseira",
       "price": 189.90,
-      "image": "https://example.com/images/pulseira-couro-aco.jpg"
+      "image": "https://cdn.awsli.com.br/600x450/1293/1293420/produto/52358173/70087c008d.jpg"
     },
     {
       "id": 10,
       "name": "Colar com Pingente de Safira",
       "type": "Colar",
       "price": 2799.00,
-      "image": "https://example.com/images/colar-safira.jpg"
+      "image": "https://images.pexels.com/photos/13292423/pexels-photo-13292423.jpeg"
     }
   ]
 }
